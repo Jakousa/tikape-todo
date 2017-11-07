@@ -1,6 +1,6 @@
 # tikape-todo gradle-versio
 
-Tietokantojen perusteiden [laskareiden 5](https://docs.google.com/document/d/1OtE38kOP97TaDYmeIoF-YlcXzf-21uMcEfSk1gE6bAs/edit) gradle-versio.
+Tietokantojen perusteiden [laskareiden 5](https://docs.google.com/document/d/1OtE38kOP97TaDYmeIoF-YlcXzf-21uMcEfSk1gE6bAs/edit) todo-sovelluksen gradle-versio.
 
 Suorita komennolla <code>gradle run</code>
 
